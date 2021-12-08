@@ -1,3 +1,3 @@
-# CourseProject
+Sentiment Analysis on Financial Statements.ipynb is the jupyter notebook to run the whole process.
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+
